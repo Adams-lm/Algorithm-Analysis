@@ -8,3 +8,7 @@ About Algorithm Analysis homework
   - Floyd
   - Dijkstra
 
+- Work3
+  - Search
+    - BinarySearch
+    - InsertionSearch
