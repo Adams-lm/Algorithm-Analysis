@@ -15,5 +15,7 @@ About Algorithm Analysis homework
   - MergeSort
 - Work5
   - ClosestPoints
-- Work5
+- Work6
   - Select
+- Work7
+  - DPinvest
