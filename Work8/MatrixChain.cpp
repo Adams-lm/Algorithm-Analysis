@@ -1,4 +1,4 @@
-#include<iostream>
+#include<iostream> 
 using namespace std;
 const int N = 100;
 int P[]={5,6,2,9,7,6}, m[N][N] = { 0 }, s[N][N] = { 0 };
