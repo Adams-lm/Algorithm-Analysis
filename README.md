@@ -19,3 +19,6 @@ About Algorithm Analysis homework
   - Select
 - Work7
   - DPinvest
+- Work8
+  - MatrixChain
+
