@@ -2,25 +2,27 @@
 About Algorithm Analysis homework
 
 - Work1
-  - Prim
-  - Kruskal
+  - [Prim](https://blog.csdn.net/m0_46419294/article/details/104565869)
+  - [Kruskal](https://blog.csdn.net/m0_46419294/article/details/104566380)
 - Work2
-  - Floyd
-  - Dijkstra
+  - [Floyd](https://blog.csdn.net/m0_46419294/article/details/104726078)
+  - [Dijkstra](https://blog.csdn.net/m0_46419294/article/details/104735068)
 - Work3
-  - Search
+  - [Search](https://blog.csdn.net/m0_46419294/article/details/104850206)
     - BinarySearch
     - InsertionSearch
 - Work4
-  - MergeSort
+  - [MergeSort](https://blog.csdn.net/m0_46419294/article/details/105037911)
 - Work5
-  - ClosestPoints
+  - [ClosestPoints](https://blog.csdn.net/m0_46419294/article/details/105187742)
 - Work6
-  - Select
+  - [Select](https://blog.csdn.net/m0_46419294/article/details/105345876)
 - Work7
-  - DPinvest
+  - [DPinvest](https://blog.csdn.net/m0_46419294/article/details/105463741)
 - Work8
-  - MatrixChain
-
+  - [MatrixChain](https://blog.csdn.net/m0_46419294/article/details/105624205)
 - Work9
-  - LCS
+  - [LCS](https://blog.csdn.net/m0_46419294/article/details/105779399)
+- Work10
+  - [Compatible Problem](https://blog.csdn.net/m0_46419294/article/details/105910466)
+
