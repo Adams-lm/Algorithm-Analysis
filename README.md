@@ -22,7 +22,9 @@ About Algorithm Analysis homework
 - Work8
   - [MatrixChain](https://blog.csdn.net/m0_46419294/article/details/105624205)
 - Work9
-  - [LCS](https://blog.csdn.net/m0_46419294/article/details/105779399)
+  - [LCS](https://blog.csdn.net/m0_46419294/article/details/105779399) 在一周后误传了一个[~$报告 9 LCS.doc]文件改变了时间，但原文件时间没有改变
 - Work10
   - [Compatible Problem](https://blog.csdn.net/m0_46419294/article/details/105910466)
 
+- Work11
+  - [Huffman](https://blog.csdn.net/m0_46419294/article/details/106175897)
