@@ -25,6 +25,7 @@ About Algorithm Analysis homework
   - [LCS](https://blog.csdn.net/m0_46419294/article/details/105779399) 在一周后误传了一个[~$报告 9 LCS.doc]文件改变了时间，但原文件时间没有改变
 - Work10
   - [Compatible Problem](https://blog.csdn.net/m0_46419294/article/details/105910466)
-
 - Work11
   - [Huffman](https://blog.csdn.net/m0_46419294/article/details/106175897)
+- Work12
+  - [GraphColoring Problem](https://blog.csdn.net/m0_46419294/article/details/106388899)
